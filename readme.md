@@ -40,8 +40,7 @@
   - [Troubleshooting](#troubleshooting)
 
 ---
-
-## PT-BR
+# Português (BR)
 
 ### O que este script faz?
 
@@ -206,7 +205,7 @@ Certifique-se de que:
 
 ---
 
-## EN
+# 🇺🇸 English
 
 ### What does this script do?
 
