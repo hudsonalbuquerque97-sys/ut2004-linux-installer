@@ -80,7 +80,7 @@ Você pode obter o Unreal Tournament 2004 de fontes legais como:
 
 1. **Baixe o script:**
    ```bash
-   wget https://[URL_DO_SCRIPT]/ut2004_installer.sh
+   wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2004-linux-installer/refs/heads/main/ut2004_installer.sh
    chmod +x ut2004_installer.sh
    ```
 
@@ -245,7 +245,7 @@ You can obtain Unreal Tournament 2004 from legal sources such as:
 
 1. **Download the script:**
    ```bash
-   wget https://[SCRIPT_URL]/ut2004_installer.sh
+   wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/ut2004-linux-installer/refs/heads/main/ut2004_installer.sh
    chmod +x ut2004_installer.sh
    ```
 
