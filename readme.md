@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-Linux%20Mint%2022.1%20%7C%20Ubuntu%2024.04-orange.svg)]()
 [![Shell Script](https://img.shields.io/badge/shell-bash-green.svg)]()
 
-[🇧🇷 Português (BR)](#português-br) | [🇺🇸 English](#english)
+[🇧🇷 Português (BR)](#português-br)  |  [🇺🇸 English](#english)
 
 </div>
 
@@ -205,7 +205,7 @@ Certifique-se de que:
 
 ---
 
-# 🇺🇸 English
+# English
 
 ### What does this script do?
 
