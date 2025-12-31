@@ -1,4 +1,4 @@
-# 🎮 UT2004 Installer for Linux | UT2004 instalador para linux 🐧 
+# 🎮 UT2004 Installer for Linux | UT2004 Instalador para Linux 🐧 
 
 <div align="center">
 
