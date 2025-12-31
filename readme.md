@@ -1,10 +1,15 @@
-# UT2004 Installer for Linux
+# 🎮 UT2004 Installer for Linux | UT2004 instalador para linux 🐧 
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux%20Mint%2022.1%20%7C%20Ubuntu%2024.04-orange.svg)]()
-[![Shell Script](https://img.shields.io/badge/shell-bash-green.svg)]()
+![UT2004](https://img.shields.io/badge/Unreal%20Tournament%202004-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PT-BR](https://img.shields.io/badge/PT--BR-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
+![EN](https://img.shields.io/badge/EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 [🇧🇷 Português (BR)](#português-br)  |  [🇺🇸 English](#english)
 
